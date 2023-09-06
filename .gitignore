@@ -26,3 +26,6 @@ IHP
 .devenv*
 devenv.local.nix
 .direnv
+
+# haskell playground
+t.hs
